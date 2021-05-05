@@ -1,0 +1,5 @@
+Financial Analysis
+Greatest Increase in Profits : $ 1926159
+Greatest Decrease in Profits : $ -2196167
+Total Months :86
+Total Net amount :38382578
